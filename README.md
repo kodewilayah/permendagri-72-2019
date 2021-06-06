@@ -1,4 +1,4 @@
-# kodewilayah/permendagri2019
+# kodewilayah/permendagri-72-2019
 
 Scraper & scraping results for Permendagri No. 72/2019. The results are available in `dist.csv`, each row containing:
 
