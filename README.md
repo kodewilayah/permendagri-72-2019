@@ -1,6 +1,6 @@
 # kodewilayah/permendagri-72-2019
 
-Scraper & scraping results for Permendagri No. 72/2019. The results are available in `dist/base.csv`, each row containing:
+Scraper & scraping results for Permendagri No. 72/2019. The results are available in [`dist/base.csv`](dist/base.csv), each row containing:
 
 * Region code
 * Name as it appears on the Permendagri with minimal sanitisation
